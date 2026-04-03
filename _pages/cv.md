@@ -11,14 +11,14 @@ redirect_from:
 
 ## Education
 
-* **PhD in Computer Science** | [cite_start]Technological University Dublin [cite: 5]
-  * [cite_start]*November 2024 – Present* [cite: 6]
-  * [cite_start]Research area: Trust of generative AI tools in the workplace using mixed methods [cite: 7]
-* **MSc in Social Data Analytics** | [cite_start]University College Dublin [cite: 8-9]
-  * [cite_start]*September 2022* [cite: 11]
-  * [cite_start]Thesis: Exploration of the relationship between personal values and climate action using the European Social Survey [cite: 12]
-* **BS in Mathematics and Political Science** | [cite_start]University of Wyoming [cite: 13-14]
-  * [cite_start]*May 2017* [cite: 18]
+* **PhD in Computer Science** | Technological University Dublin
+  * *November 2024 – Present*
+  * Research area: Trust of generative AI tools in the workplace using mixed methods
+* **MSc in Social Data Analytics** | University College Dublin 
+  * *September 2022* 
+  * Thesis: Exploration of the relationship between personal values and climate action using the European Social Survey 
+* **BS in Mathematics and Political Science** | [University of Wyoming
+  * *May 2017* 
 
 ## Professional Experience
 
