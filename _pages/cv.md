@@ -10,16 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-**Technological University Dublin** | *PhD in Computer Science*
-: **November 2024 – Present**
+**Technological University Dublin** | *PhD in Computer Science* | November 2024 - Present
 : *Research Area:* Trust of generative AI tools in the workplace using mixed methods
 
-**University College Dublin** | *MSc in Social Data Analytics*
-: **September 2022**
+**University College Dublin** | *MSc in Social Data Analytics* | September 2022
 : *Thesis:* Exploration of the relationship between personal values and climate action or intent to act in Europe using fixed effects and the European Social Survey
 
-**University of Wyoming** | *BS in Mathematics and Political Science*
-: **May 2017**
+**University of Wyoming** | *BS in Mathematics and Political Science* | May 2017
+
 
 ## Professional Experience
 
