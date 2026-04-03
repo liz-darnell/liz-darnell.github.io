@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Liz Darnell",
+    "name": "Elizabeth Darnell",
     "email": "elizabeth.g.darnell@mytudublin.ie",
     "phone": "",
-    "website": "https://liz-darnell.github.io",
-    "summary": "",
+    "website": "",
+    "summary": "Research area: trust of generative Al tools in the workplace using mixed methods",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,9 +14,9 @@
     },
     "profiles": [
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/0009-0007-9204-2492"
+        "network": "LinkedIn",
+        "username": "liz-darnell",
+        "url": "https://www.linkedin.com/in/liz-darnell"
       },
       {
         "network": "GitHub",
@@ -25,123 +25,201 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Workday, Inc.",
+      "position": "PhD Placement",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "2025-11-01",
+      "summary": "Wrote a short literature review connecting the trust of organisations to trust of technology; Partnered with Al experience team to iterate on user studies to evaluate impact of accuracy of generative Al tools on trust; Explored user data related to use of generative AI tools to help drive insights and action by the team",
+      "location": "Dublin, Ireland"
+    },
+    {
+      "name": "EGD Consulting, Inc.",
+      "position": "Data Analyst",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "2024-11-01",
+      "summary": "Analysed voter file and consumer data to facilitate better understanding of target audiences and assist with resource allocation decisions; Provided strategic guidance on implementation of political campaign tactics and community organizing tactics for application in public health campaigns; Conducted applied research for organizations through literature reviews, user interviews, and vendor interviews",
+      "location": "Montana, USA"
+    },
+    {
+      "name": "Deck Technologies",
+      "position": "Director of Data Partnerships",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2023-08-01",
+      "summary": "Provided technical support of complex client usage through SQL support and documentation, shared Slack channels, and group trainings; Managed research and consulting projects internally and externally; Expanded and maintained comprehensive, public technical documentation for Deck's licensable data, ensuring easy access and understanding for current and potential users",
+      "location": "Remote, USA"
+    },
+    {
+      "name": "Deck Technologies",
+      "position": "Director of Community",
+      "url": "",
+      "startDate": "2020-06-01",
+      "endDate": "2021-08-01",
+      "summary": "Led app redesign and improvement through mixed-methods user research; Developed a highly utilized training portal for the product, garnering over 1,500 visits in a year; Enhanced informal data analysis and decision-making processes by implementing well-structured spreadsheets and SQL queries, leading to improved efficiency and insights about app usage",
+      "location": "Remote, USA"
+    },
+    {
+      "name": "Montana Democratic Party",
+      "position": "Data Director",
+      "url": "",
+      "startDate": "2019-05-01",
+      "endDate": "2020-06-01",
+      "summary": "Developed custom linear regression models based on historic election results to guide resource allocation; Managed and maintained large amounts of sensitive data through a CRM to improve both data quality and usability for end users; Championed and introduced basic security guidelines for the organization, smaller partner organizations and volunteers",
+      "location": "Montana, USA"
+    }
+  ],
   "education": [
     {
       "institution": "Technological University Dublin",
-      "area": "PhD in Computer Science",
-      "studyType": "",
-      "startDate": "2024",
-      "endDate": "Ongoing",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "University College Dublin",
-      "area": "MSc in Social Data Analytics",
-      "studyType": "",
-      "startDate": "2021",
-      "endDate": "2022",
+      "area": "Social Data Analytics",
+      "studyType": "MSc",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Thesis topic: Exploration of the relationship between personal values and climate action or intent to act in Europe using fixed effects and the European Social Survey"
+      ]
     },
     {
       "institution": "University of Wyoming",
-      "area": "BSc in Mathematics and Political Science",
-      "studyType": "",
-      "startDate": "2014",
-      "endDate": "2017",
+      "area": "Mathematics and Political Science",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "2017-05-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "R",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Other Technologies",
+      "level": "",
+      "keywords": [
+        "GitBook",
+        "GitHub",
+        "BigQuery",
+        "Zapier",
+        "Zendesk",
+        "Intercom",
+        "Hubspot"
+      ]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Trust as an Outcome of Trustworthy Al: A Case for Increasing Research of Trust of Agentic Al Tools",
+      "publisher": "TRUST-AI Workshop @ European Conference on AI",
+      "releaseDate": "2025-10-01",
+      "website": "",
+      "summary": "E. Darnell, E. Murphy, D. O'Sullivan"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Age-Friendly AI: Ireland's National Al Literacy Programme for Older Adults",
+      "publisher": "edu4AI 2025 Workshop @ European Conference on AI",
+      "releaseDate": "2025-10-01",
+      "website": "",
+      "summary": "P. Kelly, E. Clarke, P. Lucha Farina, D. Berry, M. Parmar, L. Grehan, ..., E. Darnell"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Trust in Al: A Mixed Methods Protocol to Explore Expert Developer's Trust in Agentic Coding Assistants",
+      "publisher": "ACM womENcourage: 12th ACM Celebration of Women in Computing",
+      "releaseDate": "2025-09-01",
+      "website": "",
+      "summary": "E. Darnell, D. O'Sullivan, E. Murphy"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Trusting AI: What does it mean to trust?",
+      "event": "ARISE Showcase at Technological University Dublin",
+      "date": "2025-06-01",
+      "location": "Dublin, Ireland",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Trust & AΙ",
+      "event": "Workday Machine Learning Centre of Excellence Research Showcase",
+      "date": "2025-06-01",
+      "location": "Dublin, Ireland",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Trusting AI: What does it mean and should we?",
+      "event": "Pint of Science Ireland Tech Me Out",
+      "date": "2025-05-01",
+      "location": "Ireland",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Trusting AI: What does it mean and should we?",
+      "event": "POT (Towards People Orientated Technology) Research Symposium",
+      "date": "2025-05-01",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Data & Your Organization: Practical Skills for Non-Data Staff",
+      "event": "Montana Nonprofit Association Annual Conference",
+      "date": "2024-10-01",
+      "location": "Montana, USA",
       "description": ""
     }
   ],
-  "tutoring": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "ACM womENcourage 2025 Student Scholarship awardee",
+      "date": "2025",
+      "awarder": "ACM",
+      "summary": "€250"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "25 under 25 awardee",
+      "date": "2018",
+      "awarder": "Forward Montana Foundation",
+      "summary": "For work in political organising"
     }
   ],
-  "portfolio": [
+  "certifications": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "College Reading and Learning Association Level 1 Certified Tutor",
+      "issuer": "CRLA",
+      "date": "2017"
+    }
+  ],
+  "community": [
+    {
+      "organization": "Dublin PhD/Post Doc Peer-mentoring",
+      "position": "Facilitator",
+      "date": "2025",
+      "summary": "Facilitate a monthly peer-mentoring group for women+ PhD and post docs across all major universities in Dublin, Ireland (20+ members)"
+    },
+    {
+      "organization": "Missoula Data Professionals Meetup",
+      "position": "Leader",
+      "date": "2024",
+      "summary": "Led a monthly meetup for data professionals in Missoula, MT, USA (40+ members)"
     }
   ]
 }
