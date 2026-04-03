@@ -46,36 +46,36 @@ redirect_from:
 * Improved efficiency by implementing structured SQL queries for app usage insights.
 
 ### Montana Democratic Party
-**Data Director** | [cite_start]*May 2019 – June 2020* [cite: 42-44]
-* [cite_start]Developed linear regression models to guide resource allocation based on election results[cite: 45].
-* [cite_start]Managed sensitive data within a CRM to improve quality and usability[cite: 46].
-* [cite_start]Introduced security guidelines for the organization and volunteers[cite: 47].
+**Data Director** |  *May 2019 – June 2020* 
+* Developed linear regression models to guide resource allocation based on election results.
+* Managed sensitive data within a CRM to improve quality and usability.
+* Introduced security guidelines for the organization and volunteers.
 
 ## Conferences & Publications
 
-* [cite_start]**TRUST-AI Workshop @ ECAI (2025):** "Trust as an Outcome of Trustworthy AI: A Case for Increasing Research of Trust of Agentic AI Tools" [cite: 49-50, 66].
-* [cite_start]**edu4AI Workshop @ ECAI (2025):** "Age-Friendly AI: Ireland's National AI Literacy Programme for Older Adults" [cite: 51-53, 68].
-* [cite_start]**ACM womENcourage (2025):** "Trust in AI: A Mixed Methods Protocol to Explore Expert Developer's Trust in Agentic Coding Assistants" [cite: 54-55, 70].
+*  **TRUST-AI Workshop @ ECAI (2025):** "Trust as an Outcome of Trustworthy AI: A Case for Increasing Research of Trust of Agentic AI Tools".
+*  **edu4AI Workshop @ ECAI (2025):** "Age-Friendly AI: Ireland's National AI Literacy Programme for Older Adults".
+*  **ACM womENcourage (2025):** "Trust in AI: A Mixed Methods Protocol to Explore Expert Developer's Trust in Agentic Coding Assistants".
 
 ## Invited Talks
 
-* **ARISE Showcase, TU Dublin:** "Trusting AI: What does it mean to trust?" (June 2025) [cite_start][cite: 57, 79].
-* [cite_start]**Workday ML CoE Showcase:** "Trust & AI" (June 2025) [cite: 58-59, 80].
-* **Pint of Science Ireland:** "Trusting AI: What does it mean and should we?" (May 2025) [cite_start][cite: 60-61, 81].
-* **POT Research Symposium:** "Trusting AI: What does it mean and should we?" (May 2025) [cite_start][cite: 62, 82].
+* **ARISE Showcase, TU Dublin:** "Trusting AI: What does it mean to trust?" (June 2025).
+* **Workday ML Centre of Excellence Showcase:** "Trust & AI" (June 2025).
+* **Pint of Science Ireland:** "Trusting AI: What does it mean and should we?" (May 2025).
+* **POT Research Symposium:** "Trusting AI: What does it mean and should we?" (May 2025).
 
 ## Skills
 
-* [cite_start]**Programming:** R, SQL, Python[cite: 65].
-* [cite_start]**Technologies:** GitHub, BigQuery, Zapier, Zendesk, HubSpot, GitBook[cite: 72].
+*  **Programming:** R, SQL, Python.
+*  **Technologies:** GitHub, BigQuery, Zapier, Zendesk, HubSpot, GitBook.
 
 ## Awards & Funding
 
-* [cite_start]**ACM womENcourage Student Scholarship:** €250 (2025)[cite: 73].
-* [cite_start]**Forward Montana Foundation:** 25 under 25 awardee for political organizing (2018)[cite: 75].
-* [cite_start]**CRLA:** Level 1 Certified Tutor (2017)[cite: 77].
+*  **ACM womENcourage Student Scholarship:** €250 (2025).
+*  **Forward Montana Foundation:** 25 under 25 awardee for political organizing (2018).
+*  **CRLA:** Level 1 Certified Tutor (2017).
 
 ## Community
 
-* [cite_start]**Peer-mentoring Facilitator:** Monthly group for women+ PhDs and post-docs in Dublin (2025)[cite: 84].
-* [cite_start]**Meetup Leader:** Data professionals group in Missoula, MT (2024)[cite: 85].
+*  **Peer-mentoring Facilitator:** Monthly group for women+ PhDs and post-docs in Dublin (2025).
+*  **Meetup Leader:** Data professionals group in Missoula, MT (2024).
