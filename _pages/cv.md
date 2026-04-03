@@ -17,33 +17,33 @@ redirect_from:
 * **MSc in Social Data Analytics** | University College Dublin 
   * *September 2022* 
   * Thesis: Exploration of the relationship between personal values and climate action using the European Social Survey 
-* **BS in Mathematics and Political Science** | [University of Wyoming
+* **BS in Mathematics and Political Science** | University of Wyoming
   * *May 2017* 
 
 ## Professional Experience
 
 ### Workday, Inc.
-**PhD Placement** | [cite_start]*September 2025 – November 2025* [cite: 17, 19]
-* [cite_start]Wrote a literature review connecting organizational trust to technology trust[cite: 20].
-* [cite_start]Partnered with the AI experience team to iterate on user studies regarding generative AI accuracy[cite: 21].
-* [cite_start]Explored user data to drive insights for the generative AI tools team[cite: 22].
+**PhD Placement** | *September 2025 – November 2025* 
+* Wrote a literature review connecting organizational trust to technology trust.
+* Partnered with the AI experience team to iterate on user studies regarding generative AI accuracy.
+* Explored user data to drive insights for the generative AI tools team.
 
 ### EGD Consulting, Inc.
-**Data Analyst** | [cite_start]*October 2023 – November 2024* [cite: 23-25]
-* [cite_start]Analyzed voter and consumer data to understand target audiences and resource allocation[cite: 27].
-* [cite_start]Provided strategic guidance for public health campaigns using political organizing tactics[cite: 28].
-* [cite_start]Conducted applied research through literature reviews and user interviews[cite: 29].
+**Data Analyst** | *October 2023 – November 2024* 
+* Analyzed voter and consumer data to understand target audiences and resource allocation.
+* Provided strategic guidance for public health campaigns using political organizing tactics.
+* Conducted applied research through literature reviews and user interviews.
 
 ### Deck Technologies
-**Director of Data Partnerships** | [cite_start]*September 2022 – August 2023* [cite: 30-32]
-* [cite_start]Provided SQL support and technical documentation for complex client usage[cite: 34].
-* [cite_start]Managed internal and external research and consulting projects[cite: 35].
-* [cite_start]Maintained public technical documentation for licensable data[cite: 36].
+**Director of Data Partnerships** | *September 2022 – August 2023* 
+* Provided SQL support and technical documentation for complex client usage.
+* Managed internal and external research and consulting projects.
+* Maintained public technical documentation for licensable data.
 
-**Director of Community** | [cite_start]*June 2020 – August 2021* [cite: 37-38, 40]
-* [cite_start]Led app redesign through mixed-methods user research[cite: 39].
-* [cite_start]Developed a training portal with over 1,500 annual visits[cite: 41].
-* [cite_start]Improved efficiency by implementing structured SQL queries for app usage insights[cite: 41].
+**Director of Community** | *June 2020 – August 2021* 
+* Led app redesign through mixed-methods user research.
+* Developed a training portal with over 1,500 annual visits.
+* Improved efficiency by implementing structured SQL queries for app usage insights.
 
 ### Montana Democratic Party
 **Data Director** | [cite_start]*May 2019 – June 2020* [cite: 42-44]
