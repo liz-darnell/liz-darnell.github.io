@@ -17,7 +17,7 @@ redirect_from:
 : *Thesis:* Exploration of the relationship between personal values and climate action or intent to act in Europe using fixed effects and the European Social Survey
 
 **University of Wyoming** | *BS in Mathematics and Political Science* | May 2017
-
+: 
 
 ## Professional Experience
 ### Workday, Inc.
