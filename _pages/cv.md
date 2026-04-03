@@ -69,6 +69,7 @@ redirect_from:
 
 ## Awards & Funding
 
+* **ACM CHI Registration:** As part of participantion in CHI Student Mentorship Program, ~€500 (2026). 
 *  **ACM womENcourage Student Scholarship:** €250 (2025).
 *  **Forward Montana Foundation:** 25 under 25 awardee for political organizing (2018).
 *  **CRLA:** Level 1 Certified Tutor (2017).
