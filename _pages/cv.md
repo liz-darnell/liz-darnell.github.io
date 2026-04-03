@@ -12,8 +12,10 @@ redirect_from:
 ## Education
 **Technological University Dublin** | *PhD in Computer Science* | November 2024 - Present
 : *Research Area:* Trust of generative AI tools in the workplace using mixed methods
+
 **University College Dublin** | *MSc in Social Data Analytics* | September 2022
 : *Thesis:* Exploration of the relationship between personal values and climate action or intent to act in Europe using fixed effects and the European Social Survey
+
 **University of Wyoming** | *BS in Mathematics and Political Science* | May 2017
 
 
@@ -73,5 +75,6 @@ redirect_from:
 
 ## Community
 
-*  **Peer-mentoring Facilitator:** Monthly group for women+ PhDs and post-docs in Dublin (2025).
+*  **Organiser:** Organised the Women+ in Early Career Research Community of Practice. A group of 60+ women across Ireland in early career research (Ongoing).
+*  **Co-Organiser:** Women+ in Early Career Research Research Symposium. 20 accepted short papers from 7 institutions across Ireland. 50 attendees. 
 *  **Meetup Leader:** Data professionals group in Missoula, MT (2024).
