@@ -2,15 +2,10 @@
   "basics": {
     "name": "Liz Darnell",
     "email": "elizabeth.g.darnell@mytudublin.ie",
-    "phone": "",
-    "website": "",
     "summary": "Research area: trust of generative Al tools in the workplace using mixed methods",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Dublin",
-      "countryCode": "IE",
-      "region": ""
+      "countryCode": "IE"
     },
     "profiles": [
       {
