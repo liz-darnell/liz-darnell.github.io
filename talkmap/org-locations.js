@@ -15,6 +15,11 @@ var addressPoints = [
     -6.2605593
   ],
   [
+    "Trusting AI: What does it mean and should we?<br />tPOT (Towards People Orientated Technology) Research Symposium at TU Dublin; Dublin, Ireland",
+    53.3493795,
+    -6.2605593
+  ],
+  [
     "Trusting AI: What does it mean and should we?<br />Pint of Science Ireland | Tech Me Out; Dublin, Ireland",
     53.3493795,
     -6.2605593
