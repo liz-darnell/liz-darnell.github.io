@@ -15,8 +15,8 @@ var addressPoints = [
     -6.2605593
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Trusting AI: What does it mean and should we?<br />Pint of Science Ireland | Tech Me Out; Dublin, Ireland",
+    53.3493795,
+    -6.2605593
   ]
 ];
