@@ -69,14 +69,15 @@
   {% endif %}
   
   {% if cv.education.size > 0 %}
-  <!-- Education -->
   <div class="cv-section">
     <h2>Education</h2>
     <ul class="cv-list">
       {% for education in cv.education %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ education.area }}</div>
+          <div class="cv-item-title">
+            {{ education.studyType }}{% if education.studyType and education.area %}, {% endif %}{{ education.area }}
+          </div>
           <div class="cv-item-date">{{ education.endDate }}</div>
         </div>
         <div class="cv-item-content">
