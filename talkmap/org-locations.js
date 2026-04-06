@@ -5,9 +5,9 @@ var addressPoints = [
     -6.2605593
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Trusting AI: What does it mean to trust?<br />ARISE Showcase at TU Dublin; Dublin, Ireland",
+    53.3493795,
+    -6.2605593
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
