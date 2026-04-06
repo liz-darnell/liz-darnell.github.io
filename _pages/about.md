@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About My Research 
 I am in year 2 of my PhD and am researching trust of AI tools within the workplace. I am approaching this via mixed methods to work on 
 1. Improving the reproducability of trust measurement methods,
 2. increase understanding of how individuals trust these tools and how they conceptualise that trust, and
