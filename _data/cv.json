@@ -127,7 +127,7 @@
       "name": "Trust as an Outcome of Trustworthy Al: A Case for Increasing Research of Trust of Agentic Al Tools",
       "publisher": "TRUST-AI Workshop @ European Conference on AI",
       "releaseDate": "2025-10-01",
-      "website": "",
+      "website": "https://nell.eu/upload/pdf/publication/TRUST-AI_2025_position_paper_report%20(1).pdf",
       "summary": "E. Darnell, E. Murphy, D. O'Sullivan"
     },
     {
@@ -147,31 +147,38 @@
   ],
   "presentations": [
     {
+      "name": "Trust in AI systems through transparent and accessible Explainable AI",
+      "event": "AI, Data and Digital Innovation in TU Dublin with ARISE and Digital Futures",
+      "date": "2025-02-01",
+      "location": "Dublin",
+      "description": "" 
+    },
+    {
       "name": "Trusting AI: What does it mean to trust?",
       "event": "ARISE Showcase at Technological University Dublin",
       "date": "2025-06-01",
-      "location": "Dublin, Ireland",
+      "location": "Dublin",
       "description": ""
     },
     {
       "name": "Trust & AΙ",
       "event": "Workday Machine Learning Centre of Excellence Research Showcase",
       "date": "2025-06-01",
-      "location": "Dublin, Ireland",
+      "location": "Dublin",
       "description": ""
     },
     {
       "name": "Trusting AI: What does it mean and should we?",
       "event": "Pint of Science Ireland Tech Me Out",
       "date": "2025-05-01",
-      "location": "Ireland",
+      "location": "Dublin",
       "description": ""
     },
     {
       "name": "Trusting AI: What does it mean and should we?",
-      "event": "POT (Towards People Orientated Technology) Research Symposium",
+      "event": "tPOT (Towards People Orientated Technology) Research Symposium",
       "date": "2025-05-01",
-      "location": "",
+      "location": "Dublin",
       "description": ""
     },
     {
