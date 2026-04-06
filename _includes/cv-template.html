@@ -109,18 +109,18 @@
           <div class="cv-item-date">{{ work.startDate }}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ work.company }}</div>
-          {% if work.summary %}
-          <div class="cv-item-detail">{{ work.summary }}</div>
-          {% endif %}
-          {% if work.highlights.size > 0 %}
-          <ul class="cv-highlights">
-            {% for highlight in work.highlights %}
-            <li>{{ highlight }}</li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </div>
+  <div class="cv-item-subtitle">{{ work.company }}</div>
+  
+  {% if work.summary %}
+    <ul class="cv-highlights" style="margin-top: 0.5em;">
+      {% assign summary_items = work.summary | split: ";" %}
+      {% for item in summary_items %}
+        <li>{{ item | strip }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  
+  </div>     
       </li>
       {% endfor %}
     </ul>
