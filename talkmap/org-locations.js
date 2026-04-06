@@ -23,5 +23,10 @@ var addressPoints = [
     "Trusting AI: What does it mean and should we?<br />Pint of Science Ireland | Tech Me Out; Dublin, Ireland",
     53.3493795,
     -6.2605593
+  ],
+  [
+    "Data & Your Organization: Practical Skills for Non-Data Staff<br />Montana Nonprofit Association Annual Conference | Virtual Conference; Montana, USA",
+    47.3752671,
+    -109.638757
   ]
 ];
