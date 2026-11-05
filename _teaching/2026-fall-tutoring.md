@@ -8,6 +8,8 @@ date: 2026-09-15
 location: "Dublin, Ireland"
 ---
 **Position:** Senior Demonstrator 
+
+
 **Courses:**
 - Data Centric Programming
 - Software for the Global Market
