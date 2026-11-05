@@ -10,3 +10,4 @@ location: "Dublin, Ireland"
 
 ## Slides 
 ![Slides](/files/slides/darnell-trusting-AI-tpot.pdf)
+<embed src="{{ site.baseurl }}/files/paper.pdf" type="application/pdf" width="100%" height="600px">
