@@ -22,4 +22,4 @@ has not been significant research on evaluating trust of these tools. This paper
 and understand trust in the context of agentic coding assistants in the workplace.
 
 ## Poster presented at European Workshop on Trustworthy AI @ European Conference on Artificial Intelligence
-![Poster](/images/darnell-ecai26-trustworthy-poster.png)
+![Poster](/images/poster/darnell-ecai26-trustworthy-poster.png)
