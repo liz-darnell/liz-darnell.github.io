@@ -13,4 +13,4 @@ venueurl: 'https://dl.acm.org/doi/10.1145/3772363.3799220'
 Trust is critical for understanding individual use of generative artificial intelligence and as AI tools become ubiquitous in the workplace, it becomes more important to understand how individuals trust AI within that context. Research of trust of AI is relatively fragmented with significant reliance on custom scales. This research presents a mixed-methods protocol that evaluates the trust and distrust of AI within a workplace. The protocol utilises the Trust between People and Automation (TPA) scale which has been validated for use within AI contests and semi-structured interviews are used to help ground the research in the specific context being evaluated. Initial results of use of this protocol for evaluating trust of integrated development environments (IDE) indicate that genders trust AI differently. Further analysis is ongoing.
 
 ## Poster Presented at CHI 
-![Trust of AI in the Workplace](/images/darnell-chi26-smp-poster.png)
+![Trust of AI in the Workplace](/images/poster/darnell-chi26-smp-poster.png)
