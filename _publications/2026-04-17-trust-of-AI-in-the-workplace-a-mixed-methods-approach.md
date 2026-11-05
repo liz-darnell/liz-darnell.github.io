@@ -7,6 +7,7 @@ excerpt: 'Trust is critical for understanding individual use of generative artif
 date: 2026-04-15
 venue: '2026 CHI Student Mentorship Programme'
 paperurl: 'https://liz-darnell.github.io/files/Darnell_Trust-of-AI-in-the-Workplace-A-Mixed-Methods-Approach.pdf'
+publishedurl: 'https://dl.acm.org/doi/10.1145/3772363.3799220'
 ---
 
 ## Abstract
