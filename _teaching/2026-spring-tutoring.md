@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2026-spring-tutoring
 venue: "Technological University Dublin"
-date: "15-01-2026"
+date: 2026-01-15
 location: "Dublin, Ireland"
 ---
