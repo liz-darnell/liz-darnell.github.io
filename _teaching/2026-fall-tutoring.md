@@ -11,7 +11,6 @@ location: "Dublin, Ireland"
 
 
 **Courses:**
-- Data Centric Programming
-- Software for the Global Market
-- Cryptography & Cyber Security
-- Data Visualisation
+- Human Centred Design
+- Advanced Databases
+- Web Development 1
