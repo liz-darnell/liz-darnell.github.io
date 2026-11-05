@@ -8,4 +8,4 @@ date: 2025-09-17
 venue: '12th Celebration of Women in Computing: womENcourage'
 ---
 ## Poster presented at womENcourage
-![Poster](/images/darnell-womENcourage26-poster.png)
+![Poster](/images/poster/darnell-womENcourage26-poster.png)
