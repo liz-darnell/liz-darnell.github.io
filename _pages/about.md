@@ -16,11 +16,10 @@ As part of my PhD I aim to have my contributions be:
 - A protocol to measure and understand trust of AI tools that is context agnostic, and
 - a clearer understanding of how end-users trust AI tools. 
 
-## Current Work 
-- Completing analaysis of first study on agentic IDEs
-- Writing and preparing confirmation report for Congirmation Exam at end of year 2 (expected date: September 2026)
 
 ## Next Steps 
 - Identify new use cases to continue to testing the protocol and adding to understanding of trust
   - RAG bot style tool for policy docs
-  - Agentic coding tools (again)  
+  - Agentic coding tools (again)
+ 
+## Projected Completion: Fall 2028 
