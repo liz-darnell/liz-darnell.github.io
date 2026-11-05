@@ -7,3 +7,6 @@ venue: "tPOT (Towards People Orientated Technology) Research Symposium at TU Dub
 date: 2025-05-01
 location: "Dublin, Ireland"
 ---
+
+## Slides 
+![Slides](/files/slides/darnell-trusting-AI-tpot.pdf)
