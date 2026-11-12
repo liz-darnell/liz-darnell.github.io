@@ -1,20 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Liz Darnell"
 title_separator          : "-"
 name                     : &name "Liz Darnell"
 description              : &description "Liz Darnell's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://liz-darnell.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://liz-darnell.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liz-darnell/liz-darnell.github.io"
 
@@ -23,7 +14,7 @@ repository               : "liz-darnell/liz-darnell.github.io"
     # Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait from CHI.png"
   name             : "Liz Darnell"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Computer Science at Technological University Dublin | Researching trust of AI tools in the workplace using mixed methods"
