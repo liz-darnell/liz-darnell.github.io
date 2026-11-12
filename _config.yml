@@ -14,7 +14,7 @@ repository               : "liz-darnell/liz-darnell.github.io"
     # Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait from CHI.png"
+  avatar           : "profile.jpeg"
   name             : "Liz Darnell"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Computer Science at Technological University Dublin | Researching trust of AI tools in the workplace using mixed methods"
